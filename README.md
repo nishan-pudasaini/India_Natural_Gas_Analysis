@@ -24,7 +24,6 @@ The analysis reveals insights into India's natural gas sector and underscores th
 
 ## Contributors
 - Nishan Pudasaini
-- Tushar Pillay
 
 ## Guide
 - Dr. Rita Rani Chopra, Assistant Professor
